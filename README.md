@@ -1,5 +1,7 @@
 # 🚀 TeraBox Web - Professional File Downloader
 
+<div align="center">
+
 ![TeraBox Web](https://img.shields.io/badge/TeraBox-Web-blue?style=for-the-badge&logo=download&logoColor=white)
 ![Version](https://img.shields.io/badge/version-2.0.1-green?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -7,136 +9,127 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-> **Fast, secure, and reliable file downloads from TeraBox with no limits.**
+**Fast, secure, and reliable file downloads from TeraBox with no limits.**
 
-A modern, responsive web application that allows users to download files from TeraBox with direct download links and proxy support. Built with React 18, TypeScript, and Tailwind CSS, deployed on Netlify with serverless functions. Features a beautiful glassmorphism UI, dark/light mode, and comprehensive API documentation.
+[🌐 Live Demo](https://terasnap.netlify.app/) • [📖 Documentation](https://terasnap.netlify.app/download) • [🐙 GitHub](https://github.com/Itz-Ashlynn/Terabox-Web)
 
-**Version 2.0.1** - Enhanced performance, improved UI/UX, and better error handling.
+</div>
 
-## ✨ Features
+---
 
-### 🎯 Core Features
-- **🔗 Direct Downloads**: Get direct download links from TeraBox URLs
-- **🛡️ Proxy Support**: External proxy integration for faster downloads
-- **🌙 Dark/Light Mode**: Beautiful theme switching with system preference detection
-- **📱 Mobile Responsive**: Optimized for all devices and screen sizes
-- **⚡ Fast & Reliable**: Serverless architecture for optimal performance
-- **🍪 Cookie Management**: Easy NDUS cookie setup with detailed guide
+## 📖 Overview
 
-### 🎨 Design & UX
-- **Modern UI/UX**: Clean, professional interface with smooth animations
-- **Glassmorphism Effects**: Beautiful backdrop blur and transparency effects
-- **Responsive Design**: Mobile-first approach with perfect scaling
-- **Accessibility**: ARIA labels, keyboard navigation, and screen reader support
-- **Loading States**: Elegant loading animations and error handling
+**TeraBox Web** is a modern, professional web application that allows you to download files from TeraBox with direct download links and proxy support. Built with cutting-edge technologies including React 18, TypeScript, and Tailwind CSS, it features a beautiful glassmorphism UI, dark/light mode, and comprehensive API documentation.
 
-### 🔧 Technical Features
-- **REST API**: Full-featured API with comprehensive documentation
-- **CORS Handling**: Serverless functions to bypass browser limitations
-- **Error Handling**: Robust error management with user-friendly messages
-- **Type Safety**: Full TypeScript implementation
-- **SEO Optimized**: Meta tags, Open Graph, and mobile optimization
+### 🎯 Key Benefits
 
-## 🚀 Live Demo
+- ✅ **No Download Limits** - Download files of any size without restrictions
+- ✅ **Fast & Reliable** - Serverless architecture for optimal performance  
+- ✅ **User-Friendly** - Intuitive interface with step-by-step guidance
+- ✅ **Mobile Responsive** - Works perfectly on all devices
+- ✅ **Professional Design** - Modern UI with smooth animations
+- ✅ **API Ready** - Full REST API for developers
 
-**🌐 Website**: [https://terawebar.netlify.app](https://terawebar.netlify.app)
-**📖 API Docs**: [https://terawebar.netlify.app/download](https://terawebar.netlify.app/download)
+---
+
+## 🚀 Quick Start
+
+### 🌐 Try It Now
+Visit **[https://terasnap.netlify.app/](https://terasnap.netlify.app/)** to start downloading files immediately!
+
+### 🛠️ For Developers
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Itz-Ashlynn/Terabox-Web.git
+cd Terabox-Web
+
+# 2. Install dependencies
+npm install
+
+# 3. Start development server
+npm run dev
+
+# 4. Open http://localhost:5173
+```
+
+---
 
 ## 📋 Table of Contents
 
 - [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [API Documentation](#-api-documentation)
+- [How to Use](#-how-to-use)
 - [Cookie Setup Guide](#-cookie-setup-guide)
+- [API Documentation](#-api-documentation)
+- [Installation](#-installation)
 - [Technology Stack](#-technology-stack)
-- [Project Structure](#-project-structure)
 - [Deployment](#-deployment)
 - [Contributing](#-contributing)
-- [License](#-license)
+- [Support](#-support)
 
-## ⚡ Quick Start
+---
 
-```bash
-# Clone and install
-git clone https://github.com/Itz-Ashlynn/Terabox-Web.git
-cd Terabox-Web
-npm install
+## ✨ Features
 
-# Start development server
-npm run dev
+### 🎯 Core Features
+| Feature | Description |
+|---------|-------------|
+| 🔗 **Direct Downloads** | Get direct download links from TeraBox URLs |
+| 🛡️ **Proxy Support** | External proxy integration for faster downloads |
+| 🌙 **Dark/Light Mode** | Beautiful theme switching with system preference detection |
+| 📱 **Mobile Responsive** | Optimized for all devices and screen sizes |
+| ⚡ **Fast & Reliable** | Serverless architecture for optimal performance |
+| 🍪 **Cookie Management** | Easy NDUS cookie setup with detailed guide |
 
-# Open http://localhost:5173
-```
+### 🎨 Design & User Experience
+| Feature | Description |
+|---------|-------------|
+| 🎭 **Modern UI/UX** | Clean, professional interface with smooth animations |
+| ✨ **Glassmorphism Effects** | Beautiful backdrop blur and transparency effects |
+| 📱 **Responsive Design** | Mobile-first approach with perfect scaling |
+| ♿ **Accessibility** | ARIA labels, keyboard navigation, and screen reader support |
+| ⏳ **Loading States** | Elegant loading animations and error handling |
 
-## 🛠️ Installation
+### 🔧 Technical Features
+| Feature | Description |
+|---------|-------------|
+| 🌐 **REST API** | Full-featured API with comprehensive documentation |
+| 🔄 **CORS Handling** | Serverless functions to bypass browser limitations |
+| 🛡️ **Error Handling** | Robust error management with user-friendly messages |
+| 🔒 **Type Safety** | Full TypeScript implementation |
+| 🚀 **SEO Optimized** | Meta tags, Open Graph, and mobile optimization |
 
-### Prerequisites
-- **Node.js** (v18 or higher)
-- **npm** or **yarn**
-- **Git**
+---
 
-### Local Development Setup
+## 🎯 How to Use
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Itz-Ashlynn/Terabox-Web.git
-   cd Terabox-Web
-   ```
+### 📱 Web Interface (Recommended)
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
+1. **🌐 Visit the Website**
+   - Go to **[https://terasnap.netlify.app/](https://terasnap.netlify.app/)**
 
-3. **Start development server**
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
+2. **🍪 Setup Your Cookie** 
+   - Follow the [Cookie Setup Guide](#-cookie-setup-guide) below
+   - Enter your NDUS cookie in the application
 
-4. **Open your browser**
-   ```
-   http://localhost:5173
-   ```
+3. **📎 Enter TeraBox URL**
+   - Paste your TeraBox share link in the input field
+   - Example: `https://1024terabox.com/s/1abc123def456`
 
-### Build for Production
+4. **⬇️ Download Your File**
+   - Choose between direct download or proxy download
+   - Click download and enjoy your file!
 
-```bash
-npm run build
-# or
-yarn build
-```
-
-## 📖 Usage
-
-### Web Interface
-
-1. **Visit the website**: [https://terawebar.netlify.app](https://terawebar.netlify.app)
-2. **Setup your cookie**: Follow the detailed guide in the Cookie Setup section
-3. **Enter TeraBox URL**: Paste your TeraBox share link
-4. **Download**: Choose between direct download or proxy download
-
-### API Usage
-
-The API provides programmatic access to TeraBox file information and download links.
+### 🔧 API Usage (For Developers)
 
 #### Base URL
 ```
-https://terawebar.netlify.app
+https://terasnap.netlify.app
 ```
 
-#### Endpoints
-
-##### POST `/api/download`
-Get file information and download links.
-
-**Request:**
+#### Example Request
 ```bash
-curl -X POST "https://terawebar.netlify.app/api/download" \
+curl -X POST "https://terasnap.netlify.app/api/download" \
   -H "Content-Type: application/json" \
   -d '{
     "link": "https://1024terabox.com/s/1abc123def456",
@@ -144,7 +137,7 @@ curl -X POST "https://terawebar.netlify.app/api/download" \
   }'
 ```
 
-**Response:**
+#### Example Response
 ```json
 {
   "file_name": "example_file.zip",
@@ -156,28 +149,80 @@ curl -X POST "https://terawebar.netlify.app/api/download" \
 }
 ```
 
+---
+
+## 🍪 Cookie Setup Guide
+
+### 📋 Step-by-Step Instructions
+
+<details>
+<summary><b>🔍 Method 1: Using Cookies Editor Extension (Recommended)</b></summary>
+
+#### Step 1: Install Extension
+- **Chrome**: [Cookies Editor - Chrome Web Store](https://chrome.google.com/webstore)
+- **Firefox**: [Cookies Editor - Firefox Add-ons](https://addons.mozilla.org)
+
+#### Step 2: Login to TeraBox
+1. Go to [https://terabox.com](https://terabox.com)
+2. Login to your account
+
+#### Step 3: Activate Session
+1. Find any video file on TeraBox
+2. Start playing it (this activates your session)
+
+#### Step 4: Extract Cookie
+1. Click the Cookies Editor extension icon
+2. Search for cookie named `ndus`
+3. Copy the entire cookie value
+
+#### Step 5: Use in Application
+- Paste the cookie value in the format: `ndus=YOUR_COPIED_VALUE`
+
+</details>
+
+<details>
+<summary><b>🔧 Method 2: Using Browser Developer Tools</b></summary>
+
+#### Step 1: Open Developer Tools
+- Press `F12` or right-click → "Inspect"
+
+#### Step 2: Navigate to Cookies
+- Go to **Application** tab
+- Click **Cookies** → **https://terabox.com**
+
+#### Step 3: Find NDUS Cookie
+- Look for cookie named `ndus`
+- Copy its value
+
+#### Step 4: Use in Application
+- Enter: `ndus=YOUR_COPIED_VALUE`
+
+</details>
+
+### ⚠️ Important Tips
+
+- **🔄 Cookie Expiration**: NDUS cookies expire after some time. Generate a new one if you get authentication errors
+- **👑 Account Type**: Both free and premium accounts work, but premium offers faster speeds
+- **🔒 Security**: Never share your NDUS cookie with others
+
+---
+
 ## 🔐 API Documentation
 
-### Authentication
-All API requests require a valid TeraBox `ndus` cookie for authentication.
+### 📊 Request/Response Format
 
-### Request Format
-- **Method**: POST
-- **Content-Type**: application/json
-- **Body**: JSON object with `link` and `cookies` parameters
+| Method | Endpoint | Content-Type |
+|--------|----------|--------------|
+| `POST` | `/api/download` | `application/json` |
 
-### Response Format
-- **Success**: HTTP 200 with file information
-- **Error**: HTTP 400/500 with error message
-
-### Parameters
+### 📝 Request Parameters
 
 | Parameter | Type | Required | Description |
 |-----------|------|----------|-------------|
 | `link` | string | ✅ | TeraBox share URL |
 | `cookies` | string | ✅ | TeraBox ndus cookie value |
 
-### Response Fields
+### 📤 Response Fields
 
 | Field | Type | Description |
 |-------|------|-------------|
@@ -188,168 +233,142 @@ All API requests require a valid TeraBox `ndus` cookie for authentication.
 | `size_bytes` | number | File size in bytes |
 | `proxy_url` | string | External proxy download URL |
 
-### HTTP Status Codes
+### 🔢 HTTP Status Codes
 
 | Code | Description |
 |------|-------------|
-| 200 | Success - File information retrieved |
-| 400 | Bad Request - Invalid parameters |
-| 404 | Not Found - Endpoint not found |
-| 500 | Server Error - Internal error occurred |
+| `200` | ✅ Success - File information retrieved |
+| `400` | ❌ Bad Request - Invalid parameters |
+| `404` | ❌ Not Found - Endpoint not found |
+| `500` | ❌ Server Error - Internal error occurred |
 
-## 🍪 Cookie Setup Guide
+---
 
-### How to Export NDUS Cookie
+## 🛠️ Installation
 
-Follow these simple steps to extract your NDUS cookie using the Cookies Editor extension:
+### 📋 Prerequisites
 
-#### Step 1: Install Cookies Editor Extension
-Download and install the Cookies Editor extension from your browser's extension store:
-- **Chrome**: [Chrome Web Store](https://chrome.google.com/webstore)
-- **Firefox**: [Firefox Add-ons](https://addons.mozilla.org)
+- **Node.js** (v18 or higher) - [Download here](https://nodejs.org/)
+- **npm** or **yarn** - Package managers
+- **Git** - Version control
 
-#### Step 2: Open TeraBox Website
-Navigate to [https://terabox.com](https://terabox.com) in your browser and log in to your account.
+### 🚀 Local Development Setup
 
-#### Step 3: Play Any Video
-Find any video file on TeraBox and start playing it. This ensures your session is active and the NDUS cookie is properly set.
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/Itz-Ashlynn/Terabox-Web.git
+   cd Terabox-Web
+   ```
 
-#### Step 4: Open Cookies Editor
-Click on the Cookies Editor extension icon in your browser toolbar.
+2. **Install Dependencies**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
-#### Step 5: Find NDUS Cookie
-In the cookies list, search for the cookie named `ndus`.
+3. **Start Development Server**
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
 
-#### Step 6: Copy Cookie Value
-Copy the entire value of the NDUS cookie. It should look like:
+4. **Open Browser**
+   ```
+   http://localhost:5173
+   ```
+
+### 🏗️ Build for Production
+
+```bash
+npm run build
+# or
+yarn build
 ```
-Y2YqaCTteHuiU3Ud_MYU7vHoVW4DNBi0MPmg_1tQ
-```
 
-#### Step 7: Use in API
-Use the complete cookie in the format:
-```
-ndus=YOUR_COPIED_VALUE
-```
-
-### Important Tips
-
-- **Alternative Method**: You can also use browser Developer Tools (F12) → Application → Cookies → terabox.com → find 'ndus'
-- **Cookie Validity**: NDUS cookies may expire after some time. If you get authentication errors, generate a new cookie
-- **Account Type**: Both free and premium accounts work, but premium accounts offer significantly faster download speeds
+---
 
 ## 🛠️ Technology Stack
 
-### Frontend
-- **⚛️ React 18**: Modern React with hooks and functional components
-- **📘 TypeScript**: Type-safe development with full IntelliSense
-- **🎨 Tailwind CSS**: Utility-first CSS framework for rapid UI development
-- **🧭 React Router**: Client-side routing for SPA navigation
-- **🎭 Lucide React**: Beautiful, customizable icons
+### 🎨 Frontend
+- **⚛️ React 18** - Modern React with hooks and functional components
+- **📘 TypeScript** - Type-safe development with full IntelliSense
+- **🎨 Tailwind CSS** - Utility-first CSS framework for rapid UI development
+- **🧭 React Router** - Client-side routing for SPA navigation
+- **🎭 Lucide React** - Beautiful, customizable icons
 
-### Backend
-- **☁️ Netlify Functions**: Serverless functions for API endpoints
-- **🔄 CORS Handling**: Cross-origin request management
-- **🛡️ Proxy Integration**: External proxy service integration
+### ☁️ Backend
+- **🌐 Netlify Functions** - Serverless functions for API endpoints
+- **🔄 CORS Handling** - Cross-origin request management
+- **🛡️ Proxy Integration** - External proxy service integration
 
-### Development Tools
-- **⚡ Vite**: Fast build tool and development server
-- **📦 npm/yarn**: Package management
-- **🔧 ESLint**: Code linting and formatting
-- **🎯 PostCSS**: CSS processing and optimization
+### 🔧 Development Tools
+- **⚡ Vite** - Fast build tool and development server
+- **📦 npm/yarn** - Package management
+- **🔧 ESLint** - Code linting and formatting
+- **🎯 PostCSS** - CSS processing and optimization
 
-### Deployment
-- **🌐 Netlify**: Hosting, CI/CD, and serverless functions
-- **🔄 GitHub Actions**: Automated deployment and testing
-- **📈 Analytics**: Performance monitoring and user analytics
+### 🌐 Deployment
+- **🚀 Netlify** - Hosting, CI/CD, and serverless functions
+- **🔄 GitHub Actions** - Automated deployment and testing
+- **📈 Analytics** - Performance monitoring and user analytics
 
-## 📁 Project Structure
-
-```
-terabox-web/
-├── 📁 public/                  # Static assets
-├── 📁 src/                     # Source code
-│   ├── 📁 components/          # React components
-│   │   ├── 🎨 Header.tsx      # Navigation header
-│   │   ├── 📥 DownloadCard.tsx # File info display
-│   │   └── 🍪 CookieModal.tsx  # Cookie setup modal
-│   ├── 📁 context/             # React Context
-│   │   ├── 🌙 ThemeContext.tsx # Dark/light theme
-│   │   └── 🍪 CookieContext.tsx # Cookie management
-│   ├── 📁 pages/               # Page components
-│   │   ├── 🏠 Home.tsx         # Main landing page
-│   │   ├── 📖 Download.tsx     # API documentation
-│   │   └── ℹ️ About.tsx        # About page
-│   ├── 📁 services/            # API services
-│   │   └── 🔌 api.ts           # API client functions
-│   ├── 🎨 index.css            # Global styles
-│   ├── ⚛️ App.tsx              # Root component
-│   └── 🚀 main.tsx             # Application entry
-├── 📁 netlify/                 # Netlify functions
-│   └── 📁 functions/           # Serverless functions
-│       ├── 📥 download.js      # Download endpoint
-│       ├── 🔧 api.js           # Main API endpoint
-│       └── 🔄 proxy.js         # Proxy endpoint
-├── ⚙️ netlify.toml             # Netlify configuration
-├── 🎨 tailwind.config.js       # Tailwind configuration
-├── 📦 package.json             # Dependencies and scripts
-├── 🔧 vite.config.ts           # Vite configuration
-└── 📖 README.md                # This file
-```
+---
 
 ## 🌐 Deployment
 
-### Netlify Deployment (Recommended)
+### 🚀 Netlify Deployment (Recommended)
 
-1. **Fork this repository**
-2. **Connect to Netlify**:
+1. **Fork Repository**
+   - Click "Fork" on [GitHub](https://github.com/Itz-Ashlynn/Terabox-Web)
+
+2. **Connect to Netlify**
    - Login to [Netlify](https://netlify.com)
    - Click "New site from Git"
    - Select your forked repository
-3. **Configure build settings**:
+
+3. **Configure Build Settings**
    - Build command: `npm run build`
    - Publish directory: `dist`
-4. **Deploy**: Netlify will automatically deploy your site
 
-### Manual Deployment
+4. **Deploy**
+   - Netlify will automatically deploy your site
 
-1. **Build the project**:
+### 📁 Manual Deployment
+
+1. **Build Project**
    ```bash
    npm run build
    ```
 
-2. **Deploy the `dist` folder** to your hosting provider
+2. **Deploy `dist` folder** to your hosting provider
 
-### Environment Variables
-
-No environment variables are required for basic functionality. The application uses:
-- Netlify Functions for API endpoints
-- External proxy service for downloads
-- Client-side cookie management
+---
 
 ## 🤝 Contributing
 
-We welcome contributions! Please follow these steps:
+We welcome contributions! Here's how you can help:
 
-### Getting Started
+### 🚀 Getting Started
 
 1. **Fork the repository**
-2. **Create a feature branch**:
+2. **Create a feature branch**
    ```bash
    git checkout -b feature/amazing-feature
    ```
 3. **Make your changes**
-4. **Commit your changes**:
+4. **Commit your changes**
    ```bash
    git commit -m 'Add amazing feature'
    ```
-5. **Push to the branch**:
+5. **Push to the branch**
    ```bash
    git push origin feature/amazing-feature
    ```
 6. **Open a Pull Request**
 
-### Development Guidelines
+### 📋 Development Guidelines
 
 - **Code Style**: Follow existing TypeScript and React patterns
 - **Testing**: Ensure your changes don't break existing functionality
@@ -357,18 +376,38 @@ We welcome contributions! Please follow these steps:
 - **Responsive**: Test on mobile devices and different screen sizes
 - **Accessibility**: Maintain ARIA labels and keyboard navigation
 
-### Areas for Contribution
+### 🎯 Areas for Contribution
 
-- 🐛 **Bug Fixes**: Report and fix bugs
-- ✨ **New Features**: Add new functionality
-- 🎨 **UI/UX Improvements**: Enhance design and user experience
-- 📖 **Documentation**: Improve docs and guides
-- 🔧 **Performance**: Optimize speed and efficiency
-- 🌐 **Internationalization**: Add multi-language support
+- 🐛 **Bug Fixes** - Report and fix bugs
+- ✨ **New Features** - Add new functionality
+- 🎨 **UI/UX Improvements** - Enhance design and user experience
+- 📖 **Documentation** - Improve docs and guides
+- 🔧 **Performance** - Optimize speed and efficiency
+- 🌐 **Internationalization** - Add multi-language support
+
+---
+
+## 📞 Support
+
+### 🆘 Need Help?
+
+1. **📖 Check Documentation** - Most common issues are covered here
+2. **🔍 Search Issues** - Someone might have already reported it
+3. **🐛 Create Issue** - Provide detailed information about the problem
+4. **💬 Contact Author** - Reach out to [Ashlynn](https://t.me/Ashlynn_Repository)
+
+### 🔗 Useful Links
+
+- **🌐 Live Website**: [https://terasnap.netlify.app/](https://terasnap.netlify.app/)
+- **📖 API Documentation**: [https://terasnap.netlify.app/download](https://terasnap.netlify.app/download)
+- **🐙 GitHub Repository**: [https://github.com/Itz-Ashlynn/Terabox-Web](https://github.com/Itz-Ashlynn/Terabox-Web)
+- **📞 Contact Author**: [https://t.me/Ashlynn_Repository](https://t.me/Ashlynn_Repository)
+
+---
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.
 
 ```
 MIT License
@@ -394,30 +433,15 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
+---
+
 ## 🙏 Acknowledgments
 
-- **TeraBox**: For providing the file sharing service
-- **React Team**: For the amazing React framework
-- **Tailwind CSS**: For the utility-first CSS framework
-- **Netlify**: For hosting and serverless functions
-- **Lucide**: For the beautiful icon set
-- **External Proxy**: Thanks to the external proxy service provider
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. **Check the documentation**: Most common issues are covered here
-2. **Search existing issues**: Someone might have already reported it
-3. **Create a new issue**: Provide detailed information about the problem
-4. **Join our community**: Connect with other users and contributors
-
-## 🔗 Links
-
-- **🌐 Live Website**: [https://terawebar.netlify.app](https://terawebar.netlify.app)
-- **📖 API Documentation**: [https://terawebar.netlify.app/download](https://terawebar.netlify.app/download)
-- **🐙 GitHub Repository**: [https://github.com/Itz-Ashlynn/Terabox-Web](https://github.com/Itz-Ashlynn/Terabox-Web)
-- **🚀 Netlify Dashboard**: [https://app.netlify.com](https://app.netlify.com)
+- **TeraBox** - For providing the file sharing service
+- **React Team** - For the amazing React framework
+- **Tailwind CSS** - For the utility-first CSS framework
+- **Netlify** - For hosting and serverless functions
+- **Lucide** - For the beautiful icon set
 
 ---
 
@@ -426,5 +450,7 @@ If you encounter any issues or have questions:
 **⭐ Star this repository if you found it helpful! ⭐**
 
 Made with ❤️ by [Ashlynn](https://t.me/Ashlynn_Repository)
+
+[🌐 Live Demo](https://terasnap.netlify.app/) • [🐙 GitHub](https://github.com/Itz-Ashlynn/Terabox-Web) • [📞 Contact](https://t.me/Ashlynn_Repository)
 
 </div>
